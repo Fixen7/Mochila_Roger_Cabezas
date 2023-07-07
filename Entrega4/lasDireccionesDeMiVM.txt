@@ -1,0 +1,7 @@
+Ip privada: 10.0.2.15
+Ip Pública: 181.199.54.250
+Mac:08:00:27:69:38:e3
+
+Es diferenter la IP publica y privada de nuestra máquina host?
+Si, presentan diferente configuración y clase mientras unas son de 
+clase A otros son de clase C. La configuración general cambia.
